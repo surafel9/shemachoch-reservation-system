@@ -1,5 +1,6 @@
-The Shemachoch Smart Reservation System is a simple and user-friendly web platform for reserving goods online. It supports two main roles: Admin and Customer, making management smooth and hassle-free.
-Built using PHP and MySQL, the system offers secure user login, easy product reservation, and flexible delivery or pickup options.
+The Shemachoch Smart Reservation System is a simple and user-friendly web platform designed to solve the common problem of long customer queues and lack of product awareness. It allows customers to easily check item availability and reserve goods online without visiting the store physically.
+With Admin and Customer roles, the system is built using PHP and MySQL. It features secure login, quick reservations, and flexible delivery or pickup options.
+Now customers can book items in advance and avoid unnecessary waiting.
 
 ## 📸 Screenshots
 
