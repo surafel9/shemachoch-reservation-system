@@ -25,10 +25,6 @@ The initial entry point for all users.
 
 ### 3. Customer Portal
 
-#### Product View
-
-![Customer View](Screenshots/customer.png)
-
 #### Customer Dashboard
 
 ![Customer Dashboard](Screenshots/CustomerDashboard.png)
